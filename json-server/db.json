@@ -2,43 +2,43 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "name": "Beef Hotpot",
+      "image": "images/beef-hotpot.png",
       "category": "mains",
       "label": "Hot",
-      "price": "4.99",
+      "price": "16.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": " include thinly sliced beef, leaf vegetables, mushrooms, vermicelli, sliced potatoes, bean products, egg dumplings, tofu, and seafood. Raw ingredients are pre-sliced into thin sections that will cook quickly and consistently in the simmering broth, which is maintained at a gentle boiling temperature. "
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
-      "category": "appetizer",
+      "name": "All you can Eat BBQ",
+      "image": "images/bbq.png",
+      "category": "mains",
       "label": "",
-      "price": "1.99",
+      "price": "18.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "popular method in Korean cuisine of grilling meat, typically beef, pork, or chicken. Such dishes are often prepared on gas or charcoal grills built into the dining table itself."
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Mochi",
+      "image": "images/mochi.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "Cheese Cake",
       "image": "images/elaicheesecake.png",
       "category": "dessert",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "A delectable, semi-sweet New York Style Cheese Cake"
     }
   ],
   "comments": [
@@ -244,12 +244,12 @@
     },
     {
       "id": 3,
-      "name": "Alberto Somayya",
+      "name": "Aj",
       "image": "images/alberto.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
-      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit!"
     }
   ],
   "feedback": [
